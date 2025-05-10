@@ -1,1 +1,2 @@
 # Books Recommendation system
+Recommendation systems are one of the most popular applications of data science. They predict the user preferences or how the user would rate an item. The main goal of the recommendation system is to generate accurate and meaningful recommendations to a group of people of similar interests. This code will show the implementation of the kNN algorithm to create a book recommendation system.
